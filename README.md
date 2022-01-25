@@ -1,7 +1,7 @@
 # Machine Translation
 
 # License and usage
-The corpus is available under the license GNU General Public License v3.0. If you use this corpus, please cite our paper (see below).
+The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, please cite our paper (see below).
 
 # Citation
 If you use this resource or any part of its documentation, please refer to:
