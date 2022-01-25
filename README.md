@@ -1,5 +1,7 @@
 # Machine Translation
 
+This repository contains our translation models.
+
 # License and usage
 The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, please cite our paper (see below).
 
