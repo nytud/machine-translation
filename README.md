@@ -19,6 +19,8 @@ Laki, László János and Yang, Zijian Győző (2022) Jobban fordítunk magyarra
   title={Jobban fordítunk magyarra, mint a Google!},
   author={Laki, László János and Yang, Zijian Győző},
   booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
-  year={2022}
+  publisher = {Szegedi Tudományegyetem, Informatikai Intézet},
+  year={2022},
+  pages = {357--372}
 }
 ```
