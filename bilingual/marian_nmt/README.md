@@ -25,8 +25,16 @@ access-control-allow-origin: *
 {"text": "Van egy macskám."}
 ```
 
-# License and usage
-The corpus is available under the license CC-BY-SA 4.0. If you use this corpus, please cite our paper (see below).
+# Install and use in your machine
+## Build docker image
+```bash
+docker build -t translator_mariannmt .
+```
+## Run command line script
+There is an example script to use marian-decoder over docker container. The `run_translator.sh` script downloads the model files and start a `marian-decoder`. With `CUDA_VISIBLE_DEVICES` environment variable you can start CPU (`CUDA_VISIBLE_DEVICES=""`) or GPU (`CUDA_VISIBLE_DEVICES=0`) translator. This example code reads STDIN, and writes to STDOUT.
+
+# License and usage 🆕
+The model is available under the license `CC-BY-NC 4.0`. If you use this model for research, please cite our paper (see below). For commercial use, please contact the Hungarian Research Centre for Linguistics (`varadi.tamas@nytud.hu`).
 
 # Citation
 If you use this resource or any part of its documentation, please refer to:
